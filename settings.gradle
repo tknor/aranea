@@ -1,3 +1,4 @@
 rootProject.name = 'aranea'
 
 include 'aranea-banking'
+include 'aranea-events'

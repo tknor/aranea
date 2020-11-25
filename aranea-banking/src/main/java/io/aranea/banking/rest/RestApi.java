@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class BankingRestApi {
+public class RestApi {
 
     @Value("${aranea.banking.version}")
     private String bankingVersion;
