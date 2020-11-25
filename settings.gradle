@@ -1,0 +1,3 @@
+rootProject.name = 'aranea'
+
+include 'aranea-banking'
